@@ -1,3 +1,5 @@
 # BMI-Calculator
 
-![Preview Image](BMICalculator.png)
+
+
+![Preview Image](BMI_Calculator.png)
