@@ -6,11 +6,13 @@ How It Works:
 Input:
 
 The user provides their height (in cm or meters).
+
 The user provides their weight (in kg or pounds).
+
 Formula: BMI is calculated using the formula:
 
-BMI
-=
+BMI= 
+
 Weight (kg)
 Height (m)
 2
